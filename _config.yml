@@ -1,8 +1,8 @@
 # Site settings
 title: New Website (Space themed)
 description: "A blog about lorem ipsum ..."
-baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "http://dfs-zhenkang.github.io/space-theme" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+baseurl: "/space-theme" # for test: remove string '/space-jekyll-template' to ''
+url: "http://dfs-zhenkang.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Tan Zhen Kang
